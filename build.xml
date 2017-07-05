@@ -1,0 +1,3 @@
+<zip destfile="${dist}/wordpress.zip"
+       basedir="."
+  />
